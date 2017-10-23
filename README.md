@@ -6,7 +6,7 @@ Stub objects <br>
 
 Vavr
 ---
-Biblioteka dodająca funkcyjne narzędzia do javy.
+Biblioteka [vavr](http://www.vavr.io/) dodająca funkcyjne narzędzia do javy. 
 
 ```xml
 <dependency>
